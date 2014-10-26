@@ -1,0 +1,22 @@
+{
+  "name": "nodeloc",
+  "version": "0.0.1",
+  "description": "nodeloc =======",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mountdoom/nodeloc.git"
+  },
+  "author": "Tad Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mountdoom/nodeloc/issues"
+  },
+  "homepage": "https://github.com/mountdoom/nodeloc"
+}
