@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/mountdoom/nodeloc/issues"
   },
-  "homepage": "https://github.com/mountdoom/nodeloc"
+  "homepage": "https://github.com/mountdoom/nodeloc",
+  "dependencies": {
+    "iconv-lite": "^0.4.4",
+    "maxmind-db-reader": "^0.2.0"
+  }
 }
